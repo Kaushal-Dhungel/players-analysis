@@ -10,9 +10,6 @@
 - **`final_analysis.ipynb`**  
   Main Python script used for analysis, and visualization.
 
-## Objective
-
-To investigate whether overperformance on expected goals (xG) correlates with higher market value in professional football attackers.
 
 ## Key Features
 
