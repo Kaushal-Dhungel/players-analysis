@@ -10,6 +10,8 @@
 - **`final_analysis.ipynb`**  
   Main Python script used for analysis, and visualization.
 
+- **`econ_new.ipynb`**  
+  Supporting Python script used for analysis, and visualization.
 
 ## Key Features
 
